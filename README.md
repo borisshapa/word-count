@@ -12,7 +12,6 @@ Word Count
   cmake .
   make
   ```
-
 * Запуск программы:
   ```
   ./word-count <путь к фалу>
