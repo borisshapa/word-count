@@ -22,5 +22,5 @@ Word Count
   In:
     ./word-count README.md
   Out:
-    97
+    67
   ```
