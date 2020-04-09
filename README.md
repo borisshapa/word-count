@@ -18,7 +18,6 @@ Word Count
   ```
 * Пример:
   ```
-  In:
     ./word-count README.md
   Out:
     67
