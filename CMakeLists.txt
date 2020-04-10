@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 
-project(helloasm)
+project(word-count)
 
 set(CMAKE_ASM_SOURCE_FILE_EXTENSIONS "asm")
 set(CMAKE_ASM_COMPILE_OBJECT "nasm -f elf64 -g -F dwarf -o <OBJECT> <SOURCE>")
